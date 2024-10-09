@@ -1,0 +1,11 @@
+.highlight-row {
+  background-color: #333333; /* رنگ پس‌زمینه برای سطر هایلایت */
+}
+
+.highlight-row td {
+  color: #d31068 !important;  /* تغییر رنگ متن به سفید برای سطر هایلایت */
+}
+
+.mat-row td {
+  color: black !important;  /* متن پیش‌فرض سیاه برای حالت عادی */
+}
